@@ -26,12 +26,12 @@ The CPU Scheduling Algorithm Analyzer is a Python-based tool designed to compare
 2. Navigate to the project directory:
    
    ```bash
-   cd cpu-scheduling-analyzer
+   cd CPU-Scheduling-Algorithm-Analyzer
 
 3. Run the application:
 
    ```bash
-   python scheduler.py
+   python cpu_scheduler.py
 
 ## Usage
 
