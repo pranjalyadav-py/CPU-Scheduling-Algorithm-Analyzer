@@ -39,7 +39,7 @@ The CPU Scheduling Algorithm Analyzer is a Python-based tool designed to compare
 2. Analyze the performance of different scheduling algorithms.
 3. Explore the results to understand the behavior of each algorithm.
 
-##Future Improvements
+## Future Improvements
 1. Add additional scheduling algorithms for comparison.
 2. Enhance the user interface for improved usability.
 3. Implement additional features for in-depth analysis of algorithm performance.
